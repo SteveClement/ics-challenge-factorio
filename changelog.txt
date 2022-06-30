@@ -1,1 +1,18 @@
-- Initial commit
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2022.06.29
+  Balancing:
+    - [lic] Added MIT License. [Steve Clement]
+  Optimisations:
+    - Code tidying and cleanup.
+  Cahnges:
+    - Added stuff.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2022.06.28
+  Changes:
+    - [init] First commit of skeleton mod. [Steve Clement]
+  Bugfixes:
+    - [core] Nasty bug fixed
+  Info:
+    - [doc] Figuring out changelog
