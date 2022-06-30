@@ -1,0 +1,9 @@
+{
+  "name": "ics-challenge-factorio",
+  "version": "0.0.1",
+  "title": "ICS Challenge Mod",
+  "author": "@SteveClement",
+  "factorio_version": "1.1",
+  "contact":"@SteveClement on Twitter",
+  "description": "A mod to control an ICS Hacking Challenge"
+}
