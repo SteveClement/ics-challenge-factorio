@@ -14,7 +14,7 @@ To generate the changelog automagically you need to install *gitchangelog*.
 python3 -m venv venv
 source ./venv/bin/activate
 pip install -U setuptools pip
-pip install gitchangelog
+pip install -U gitchangelog mako
 ```
 
 ## Debugging
